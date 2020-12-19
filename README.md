@@ -10,6 +10,7 @@ Notes:
 
 Usage:
 
+`npm install`
 `npm run build`
 
 Then open your web browser with the URL
